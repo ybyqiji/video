@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:45
+#EXTINF:44.177511,
+https://cdn.jsdelivr.net/gh/ybyqiji/video@latest/out700.ts
+#EXT-X-ENDLIST
